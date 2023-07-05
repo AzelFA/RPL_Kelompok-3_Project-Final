@@ -16,8 +16,6 @@ admin
 > password : admin
 
 
-
-
 ## Feature
 Feature simulasi pemesanan tiket kereta api sebagai berikut
 
@@ -33,10 +31,3 @@ Admin
 * Delete Schedule
 * Validation Order
 * Log Validation
-
-
-## Authors.
-0
-
-* **Mochamad Yudi Sobari** - *Newbie Web Developers* - [VODONESIA](https://vodonesia.id)
-Projek ini untuk memenuhi tugas Matakuliah Pemrograman Berbasis Website
